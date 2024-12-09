@@ -1,0 +1,44 @@
+[
+    {
+        "_id": "635a0c0b64a6d231228942ae",
+        "service_id": "04",
+        "title": "Engine Oil Change",
+        "img": "https://www.nicepng.com/png/detail/334-3342222_car-auto-parts-png.png",
+        "price": "20.00"
+    },
+    {
+        "_id": "635a0c0b64a6d231228942af",
+        "service_id": "05",
+        "title": "Battery Charge",
+        "img": "https://www.imarcgroup.com/blogs/files/70bdf6f6-53f3-41be-b69f-3f23e6d1e2f8auto-parts.webp",
+        "price": "20.00"
+    },
+    {
+        "_id": "635b591a1dafe382a9da8c96",
+        "service_id": "01",
+        "title": "Cools Led Light",
+        "img": "https://www.cartakeback.com/wp-content/uploads/2022/11/parts.png",
+        "price": "200.00"
+    },
+    {
+        "_id": "635b5afc1dafe382a9da8c98",
+        "service_id": "02",
+        "title": "Car Products",
+        "img": "https://m.media-amazon.com/images/I/41ZTfGV-3cL._SR290,290_.jpg",
+        "price": "150.00"
+    },
+    {
+        "_id": "635b5b691dafe382a9da8c99",
+        "service_id": "03",
+        "title": "Cools Wheel",
+        "img": "https://www.qualitytire.com/wp-content/uploads/2017/02/Car-Wheels-1.jpg",
+        "price": "30.00"
+    },
+    {
+        "_id": "635b5ba51dafe382a9da8c9a",
+        "service_id": "06",
+        "title": "cools Led Engine",
+        "img": "https://www.carcarebd.com/wp-content/uploads/2023/11/toyota-gr-86-2022-08-engine-interior-800x800.webp",
+        "price": "20.00"
+    }
+]
